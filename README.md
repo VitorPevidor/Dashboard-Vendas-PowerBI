@@ -1,2 +1,3 @@
 # Dashboard-Vendas-PowerBI
-Dashboard de análise de vendas globais desenvolvido em Power BI com foco em geração de insights.
+Dataset
+Os dados utilizados neste projeto são de caráter educacional e foram utilizados apenas para fins de estudo e prática em análise de dados.
